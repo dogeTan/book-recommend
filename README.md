@@ -1,4 +1,5 @@
-# books-recommend (PDF ZH-EN)
+# books-recommend (ZH-EN)
+Download as PDF version
 
 ## Hail to Classical Liberalism 
 1. 国富论 The Wealth of Nations - Adam Smith
