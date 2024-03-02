@@ -1,6 +1,6 @@
 # books-recommend
 
-## Classical Liberalism GOD
+## Hail to Classical Liberalism 
 1. 国富论 The Wealth of Nations - Adam Smith
 2. 通往奴役之路 The Road to Serfdom - Friedrich Hayek
 3. 常識 Common Sense - Thomas Paine
