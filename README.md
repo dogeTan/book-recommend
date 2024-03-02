@@ -11,12 +11,12 @@
 8.  論自由 On Liberty - John Stuart Mill
 9.  動物農莊 Animal Farm - George Orwell
 10. 1984 - George Orwell
-11. 機械論 The Age of Machinery - John Stuart Mill
+11. 機械論 The Spirit of the Age - John Stuart Mill
 12. 纯粹理性批判 Critique of Pure Reason - Immanuel Kant
-13. 想象的共同体 Imagined Communities - Benedict Anderson
-14. 利维坦 Leviathan - Thomas Hobbes
+13. 想象的共同体 Imagined Communities: Reflections on the Origin and Spread of Nationalism - Benedict Anderson
+14. 利维坦 Leviathan or The Matter, Forme and Power of a Commonwealth Ecclesiastical and Civil - Thomas Hobbes
 15. 大國政治的悲劇 The Tragedy of Great Power Politics - John Mearsheimer
-16. 極權式民主 Illiberal Democracy - Fareed Zakaria 
+16. 極權式民主 The rise of illiberal democracy - Fareed Zakaria 
 
 
 ## Psychology
