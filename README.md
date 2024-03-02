@@ -23,30 +23,45 @@ Download as PDF version
 
 
 ## Psychology
-1. 乌合之众 The Crowd: A Study of the Popular Mind - Gustave Le Bon  ✔
-2. 路西法效应 The Lucifer Effect: Understanding How Good People Turn Evil - Philip Zimbardo  ✔
+| No  | Book Title                                    | Author                                           | Exist |
+| --- | --------------------------------------------- | ------------------------------------------------ | ----- |
+| 1   | 乌合之众 The Crowd: A Study of the Popular Mind | Gustave Le Bon                                  | ✔     |
+| 2   | 路西法效应 The Lucifer Effect                   | Philip Zimbardo                                 | ✔     |
+
 
 ## European History
-1. 罗马帝国衰亡史 - 爱德华·吉本
-2. 罗马史 - 特奥多尔·蒙森 
-3. 苏格拉底之死 - 柏拉图
-4. 伯罗奔尼撒战争史 - 修昔底德
-5. 征服新西班牙信史 - 貝尔纳尔·迪亚斯·德尔卡斯蒂略
+| No  | Book Title                               | Author                                 | Exist |
+| --- | ----------------------------------------| -------------------------------------- | ----- |
+| 1   | 罗马帝国衰亡史                           | 爱德华·吉本                           |       |
+| 2   | 罗马史                                   | 特奥多尔·蒙森                         |       |
+| 3   | 苏格拉底之死                             | 柏拉图                                 |       |
+| 4   | 伯罗奔尼撒战争史                         | 修昔底德                               |       |
+| 5   | 征服新西班牙信史                         | 貝尔纳尔·迪亚斯·德尔卡斯蒂略         |       |
+
 
 ## WII History
-1. A Stranger to Myself: The Inhumanity of War: Russia, 1941-1944 - Willy Peter Reese
-2. IBM and the Holocaust - Edwin Black
-3. A Higher Call - Adam Makos
+| No  | Book Title                                                      | Author                    | Exist |
+| --- | --------------------------------------------------------------- | ------------------------- | ----- |
+| 1   | A Stranger to Myself: The Inhumanity of War: Russia, 1941-1944 | Willy Peter Reese         |       |
+| 2   | IBM and the Holocaust                                          | Edwin Black               |       |
+| 3   | A Higher Call                                                  | Adam Makos                |       |
+
 
 ## America
-1. 上帝與將軍 Gods and Generals - Jeff Shaara
-2. 殺手天使 The Killer Angels - Michael Shaara
-3. 汤姆叔叔的小屋 Uncle Tom's Cabin - Harriet Elizabeth Beecher Stowe
-4. 论美国的民主 Democracy in America - Alexis de Tocqueville
-5. Crossfire: The Plot That Killed Kennedy - Jim Marrs
+| No  | Book Title                              | Author                             | Exist |
+| --- | --------------------------------------- | ---------------------------------- | ----- |
+| 1   | 上帝與將軍 Gods and Generals             | Jeff Shaara                       |       |
+| 2   | 殺手天使 The Killer Angels              | Michael Shaara                    |       |
+| 3   | 汤姆叔叔的小屋 Uncle Tom's Cabin         | Harriet Elizabeth Beecher Stowe   |       |
+| 4   | 论美国的民主 Democracy in America       | Alexis de Tocqueville             |       |
+| 5   | Crossfire: The Plot That Killed Kennedy | Jim Marrs                         |       |
+
 
 ## Malaysia 
-1. 马来纪年 [诸王起源]
-2. Malaysian Maverick: Mahathir Mohamad in Turbulent Times - 	Barry Wain 
-3. The Malay Dilemma: With a New Preface - Mahathir Mohamad
-4. Capturing Hope: The Struggle Continues for a New Malaysia - Mahathir Mohamad
+| No  | Book Title                                    | Author                  | Exist |
+| --- | --------------------------------------------- | ----------------------- | ----- |
+| 1   | 马来纪年 [诸王起源]                             |                         |       |
+| 2   | Malaysian Maverick: Mahathir Mohamad          | Barry Wain              |       |
+| 3   | The Malay Dilemma: With a New Preface         | Mahathir Mohamad       |       |
+| 4   | Capturing Hope: The Struggle Continues for a New Malaysia | Mahathir Mohamad |       |
+
