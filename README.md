@@ -1,4 +1,4 @@
-# books-recommend
+# book-recommend
 
 ## Classical Liberalism GOD
 1. 国富论 The Wealth of Nations - Adam Smith
