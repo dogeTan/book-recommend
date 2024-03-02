@@ -18,7 +18,6 @@
 15. 大國政治的悲劇 The Tragedy of Great Power Politics - John Mearsheimer
 16. 極權式民主 The rise of illiberal democracy - Fareed Zakaria 
 
-
 ## Psychology
 1. 乌合之众 The Crowd: A Study of the Popular Mind - Gustave Le Bon
 2. 路西法效应 The Lucifer Effect: Understanding How Good People Turn Evil - Philip Zimbardo
@@ -34,7 +33,7 @@
 2. IBM and the Holocaust - Edwin Black
 3. A Higher Call - Adam Makos
 
-## United State 
+## America
 1. 上帝與將軍 Gods and Generals - Jeff Shaara
 2. 殺手天使 The Killer Angels - Michael Shaara
 3. 汤姆叔叔的小屋 Uncle Tom's Cabin - Harriet Elizabeth Beecher Stowe
