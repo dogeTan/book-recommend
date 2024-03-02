@@ -2,7 +2,7 @@
 Download as PDF version
 
 ## Hail to Classical Liberalism 
-| No  | Book Title                                    | Author                                           | Exist |
+| No  | Book Title                                    | Author                                           | Collection  |
 | --- | --------------------------------------------- | ------------------------------------------------ | ----- |
 | 1   | 国富论 The Wealth of Nations                   | Adam Smith                                      | ✔     |
 | 2   | 通往奴役之路 The Road to Serfdom               | Friedrich Hayek                                  | ✔     |
@@ -23,14 +23,14 @@ Download as PDF version
 
 
 ## Psychology
-| No  | Book Title                                    | Author                                           | Exist |
+| No  | Book Title                                    | Author                                           | Collection |
 | --- | --------------------------------------------- | ------------------------------------------------ | ----- |
 | 1   | 乌合之众 The Crowd: A Study of the Popular Mind | Gustave Le Bon                                  | ✔     |
 | 2   | 路西法效应 The Lucifer Effect                   | Philip Zimbardo                                 | ✔     |
 
 
 ## European History
-| No  | Book Title                               | Author                                 | Exist |
+| No  | Book Title                               | Author                                 | Collection |
 | --- | ----------------------------------------| -------------------------------------- | ----- |
 | 1   | 罗马帝国衰亡史                           | 爱德华·吉本                           |       |
 | 2   | 罗马史                                   | 特奥多尔·蒙森                         |       |
@@ -40,7 +40,7 @@ Download as PDF version
 
 
 ## WII History
-| No  | Book Title                                                      | Author                    | Exist |
+| No  | Book Title                                                      | Author                    | Collection |
 | --- | --------------------------------------------------------------- | ------------------------- | ----- |
 | 1   | A Stranger to Myself: The Inhumanity of War: Russia, 1941-1944 | Willy Peter Reese         |       |
 | 2   | IBM and the Holocaust                                          | Edwin Black               |       |
@@ -48,7 +48,7 @@ Download as PDF version
 
 
 ## America
-| No  | Book Title                              | Author                             | Exist |
+| No  | Book Title                              | Author                             | Collection |
 | --- | --------------------------------------- | ---------------------------------- | ----- |
 | 1   | 上帝與將軍 Gods and Generals             | Jeff Shaara                       |       |
 | 2   | 殺手天使 The Killer Angels              | Michael Shaara                    |       |
@@ -58,7 +58,7 @@ Download as PDF version
 
 
 ## Malaysia 
-| No  | Book Title                                    | Author                  | Exist |
+| No  | Book Title                                    | Author                  | Collection |
 | --- | --------------------------------------------- | ----------------------- | ----- |
 | 1   | 马来纪年 [诸王起源]                             |                         |       |
 | 2   | Malaysian Maverick: Mahathir Mohamad          | Barry Wain              |       |
