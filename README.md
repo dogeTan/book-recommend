@@ -60,7 +60,7 @@ Download as PDF version
 ## Malaysia 
 | No  | Book Title                                    | Author                  | Collection |
 | --- | --------------------------------------------- | ----------------------- | ----- |
-| 1   | 马来纪年 [诸王起源]                             | Tun Seri Lanang   |       |
+| 1   | 马来纪年 Sulalatus Salatin [诸王起源]  | Tun Seri Lanang   |       |
 | 2   | Malaysian Maverick: Mahathir Mohamad          | Barry Wain              |       |
 | 3   | The Malay Dilemma: With a New Preface         | Mahathir Mohamad       |       |
 | 4   | Capturing Hope: The Struggle Continues for a New Malaysia | Mahathir Mohamad |       |
