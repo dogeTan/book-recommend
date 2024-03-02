@@ -1,5 +1,5 @@
 # books-recommend (ZH-EN)
-Download as PDF version
+Download as PDF file version
 
 ## Hail to Classical Liberalism 
 | No  | Book Title                                    | Author                                           | Collection  |
