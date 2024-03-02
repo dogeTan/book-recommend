@@ -1,4 +1,4 @@
 # book-recommend
 
 
-classical liberalism and libertarian socialist
+classical liberalism
