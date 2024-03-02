@@ -19,7 +19,7 @@ Download as PDF file version
 | 13  | 想象的共同体 Imagined Communities              | Benedict Anderson                               |       |
 | 14  | 利维坦 Leviathan                               | Thomas Hobbes                                   | ✔     |
 | 15  | 大國政治的悲劇 The Tragedy of Great Power Politics | John Mearsheimer                               |       |
-| 16  | 極權式民主 The rise of illiberal democracy     | Fareed Zakaria                                  |       |
+| 16  | 極權式民主 The Rise of Illiberal Democracy     | Fareed Zakaria                                  |       |
 
 
 ## Psychology
