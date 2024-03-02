@@ -24,9 +24,10 @@
 
 ## European History
 1. 罗马帝国衰亡史 - 爱德华·吉本
-2. 苏格拉底之死 - 柏拉图
-3. 伯罗奔尼撒战争史 - 修昔底德
-4. 征服新西班牙信史 - 貝尔纳尔·迪亚斯·德尔卡斯蒂略
+2. 罗马史 - 特奥多尔·蒙森 
+3. 苏格拉底之死 - 柏拉图
+4. 伯罗奔尼撒战争史 - 修昔底德
+5. 征服新西班牙信史 - 貝尔纳尔·迪亚斯·德尔卡斯蒂略
 
 ## WII History
 1. A Stranger to Myself: The Inhumanity of War: Russia, 1941-1944 - Willy Peter Reese
