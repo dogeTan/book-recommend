@@ -36,7 +36,7 @@ Download as PDF file version
 | 1   | 罗马帝国衰亡史 The History of the Decline and Fall of the Roman Empire   | Edward Gibbon                           |       |
 | 2   | 罗马史 History of Rome    | Theodor Mommsen                        |       |
 | 3   | 苏格拉底之死 Plato's Trial and Death of Socrates      | Plato               |       |
-| 4   | 伯罗奔尼撒战争史 The History of the Peloponnesian War    | Thucydides           |       |
+| 4   | 伯罗奔尼撒战争史  History of the Peloponnesian War    | Thucydides           |       |
 | 5   | 征服新西班牙信史  The History of the Conquest of New Spain         | Bernal Díaz del Castillo        |       |
 
 
