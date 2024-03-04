@@ -33,11 +33,11 @@ Download as PDF file version
 ## European History
 | No  | Book Title                               | Author                                 | Collection |
 | --- | ----------------------------------------| -------------------------------------- | ----- |
-| 1   | 罗马帝国衰亡史                           | 爱德华·吉本                           |       |
-| 2   | 罗马史                                   | 特奥多尔·蒙森                         |       |
-| 3   | 苏格拉底之死                             | 柏拉图                                 |       |
-| 4   | 伯罗奔尼撒战争史                         | 修昔底德                               |       |
-| 5   | 征服新西班牙信史                         | 貝尔纳尔·迪亚斯·德尔卡斯蒂略         |       |
+| 1   | 罗马帝国衰亡史 The History of the Decline and Fall of the Roman Empire   | Edward Gibbon                           |       |
+| 2   | 罗马史 History of Rome    | Theodor Mommsen                        |       |
+| 3   | 苏格拉底之死 Plato's Trial and Death of Socrates      | Plato               |       |
+| 4   | 伯罗奔尼撒战争史 The History of the Peloponnesian War    | Thucydides           |       |
+| 5   | 征服新西班牙信史  The History of the Conquest of New Spain         | Bernal Díaz del Castillo        |       |
 
 
 ## WII History
