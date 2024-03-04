@@ -65,4 +65,5 @@ Download as PDF file version
 | 2   | Malaysian Maverick: Mahathir Mohamad          | Barry Wain              |       |
 | 3   | The Malay Dilemma: With a New Preface         | Mahathir Mohamad       |       |
 | 4   | Capturing Hope: The Struggle Continues for a New Malaysia | Mahathir Mohamad |       |
+| 5   | Keputusan Akhir Dari Pekan Ke Penjara | Ariff Lias |       |
 
