@@ -20,6 +20,7 @@ Download as PDF file version
 | 14  | 利维坦 Leviathan                               | Thomas Hobbes                                   | ✔     |
 | 15  | 大國政治的悲劇 The Tragedy of Great Power Politics | John Mearsheimer                               |       |
 | 16  | 極權式民主 The Rise of Illiberal Democracy     | Fareed Zakaria                                  |       |
+| 17  | 经济学原理 Principles of economics     | Alfred Marshall                                  |       |
 
 
 ## Psychology
