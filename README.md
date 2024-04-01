@@ -20,6 +20,8 @@ Download as PDF file version
 | 14  | 利维坦 Leviathan                               | Thomas Hobbes                                   | ✔     |
 | 15  | 大國政治的悲劇 The Tragedy of Great Power Politics | John Mearsheimer                               |       |
 | 16  | 極權式民主 The Rise of Illiberal Democracy     | Fareed Zakaria                                  |       |
+| 17  | 经济学原理 Principles of economics     | Alfred Marshall                                  |       |
+| 18  | 人的行动：关于经济学的论文 Human Action: A Treatise on Economics     | Ludwig Von Mises                   |   ✔    |
 
 
 ## Psychology
@@ -32,11 +34,11 @@ Download as PDF file version
 ## European History
 | No  | Book Title                               | Author                                 | Collection |
 | --- | ----------------------------------------| -------------------------------------- | ----- |
-| 1   | 罗马帝国衰亡史                           | 爱德华·吉本                           |       |
-| 2   | 罗马史                                   | 特奥多尔·蒙森                         |       |
-| 3   | 苏格拉底之死                             | 柏拉图                                 |       |
-| 4   | 伯罗奔尼撒战争史                         | 修昔底德                               |       |
-| 5   | 征服新西班牙信史                         | 貝尔纳尔·迪亚斯·德尔卡斯蒂略         |       |
+| 1   | 罗马帝国衰亡史 The History of the Decline and Fall of the Roman Empire   | Edward Gibbon                           |       |
+| 2   | 罗马史 History of Rome    | Theodor Mommsen                        |       |
+| 3   | 苏格拉底之死 Plato's Trial and Death of Socrates      | Plato               |       |
+| 4   | 伯罗奔尼撒战争史  History of the Peloponnesian War    | Thucydides           |       |
+| 5   | 征服新西班牙信史  The Conquest of New Spain         | Bernal Díaz del Castillo        |       |
 
 
 ## WII History
@@ -64,4 +66,5 @@ Download as PDF file version
 | 2   | Malaysian Maverick: Mahathir Mohamad          | Barry Wain              |       |
 | 3   | The Malay Dilemma: With a New Preface         | Mahathir Mohamad       |       |
 | 4   | Capturing Hope: The Struggle Continues for a New Malaysia | Mahathir Mohamad |       |
+| 5   | Keputusan Akhir Dari Pekan Ke Penjara | Ariff Lias |       |
 
