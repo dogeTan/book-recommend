@@ -21,6 +21,7 @@ Download as PDF file version
 | 15  | 大國政治的悲劇 The Tragedy of Great Power Politics | John Mearsheimer                               |       |
 | 16  | 極權式民主 The Rise of Illiberal Democracy     | Fareed Zakaria                                  |       |
 | 17  | 经济学原理 Principles of economics     | Alfred Marshall                                  |       |
+| 18  | 人的行动：关于经济学的论文 Human Action: A Treatise on Economics     | Ludwig Von Mises                   |       |
 
 
 ## Psychology
